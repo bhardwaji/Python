@@ -1,0 +1,6 @@
+name = 
+  phone =  
+ gendervalue =  
+ emergency value =  
+ payment mode value =  
+ food service = Yes
